@@ -6,7 +6,7 @@
 - ✨ CSS animations and transitions
 - 🚫 No JavaScript — fully static
 
-## Folder Structure
-  -sample
+##Folder Structure
+  #sample
      -index.html
      -styles.css
