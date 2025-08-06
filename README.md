@@ -9,6 +9,6 @@
 ## 📁Folder Structure
 📁sample/
 
-|-index.html
+   |-index.html
 
-|-styles.css
+   |-styles.css
