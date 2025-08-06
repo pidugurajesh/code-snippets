@@ -7,6 +7,6 @@
 - 🚫 No JavaScript — fully static
 
 ##Folder Structure
--sample
-     -index.html
-     -styles.css
+sample/
+|-index.html
+|-styles.css
